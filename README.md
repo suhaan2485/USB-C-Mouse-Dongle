@@ -24,5 +24,9 @@ Mouse photo:
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5dfabf7d-bab3-4354-a9b9-0c1b1eed99cc" />
 
 Bill of Material:
+<img width="893" height="417" alt="BOM" src="https://github.com/user-attachments/assets/0da2a0bf-cddb-415d-b5f4-7a3b14f2ed1c" />
+(btw bom.csv is uploaded here from stasis export if u wanna check)
+
+
 <img width="893" height="417" alt="BOM" src="https://github.com/user-attachments/assets/49cf02fe-8005-4fe7-8cae-a7eb5822a839" />
 
