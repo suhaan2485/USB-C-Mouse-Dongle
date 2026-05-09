@@ -15,3 +15,14 @@ Success depends on clean soldering and stable connections.
 Let’s see what happens when I try it myself!
 
 Stay tuned for updates on whether this hack works!
+
+USB Connector photos:
+<img width="958" height="918" alt="image" src="https://github.com/user-attachments/assets/955d2674-e398-423f-a464-cf945a67d181" />
+<img width="532" height="453" alt="image" src="https://github.com/user-attachments/assets/ca37464b-0e84-4fdd-bba5-2cc384ff8f8d" />
+
+Mouse photo:
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5dfabf7d-bab3-4354-a9b9-0c1b1eed99cc" />
+
+Bill of Material:
+<img width="893" height="417" alt="BOM" src="https://github.com/user-attachments/assets/49cf02fe-8005-4fe7-8cae-a7eb5822a839" />
+
