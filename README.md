@@ -19,14 +19,11 @@ Stay tuned for updates on whether this hack works!
 USB Connector photos:
 <img width="958" height="918" alt="image" src="https://github.com/user-attachments/assets/955d2674-e398-423f-a464-cf945a67d181" />
 <img width="532" height="453" alt="image" src="https://github.com/user-attachments/assets/ca37464b-0e84-4fdd-bba5-2cc384ff8f8d" />
-
-Mouse photo:
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5dfabf7d-bab3-4354-a9b9-0c1b1eed99cc" />
+<img width="496" height="466" alt="image" src="https://github.com/user-attachments/assets/286401ef-0110-48f9-9bfc-96692076cef8" />
 
 Bill of Material:
+<img width="895" height="419" alt="Screenshot 2026-05-12 at 7 26 59 PM" src="https://github.com/user-attachments/assets/4e96c8a0-1f11-4ea7-94b7-60381005735c" />
+
 
 (btw bom.csv is uploaded here from stasis export if u wanna check)
-
-
-<img width="893" height="417" alt="BOM" src="https://github.com/user-attachments/assets/49cf02fe-8005-4fe7-8cae-a7eb5822a839" />
 
