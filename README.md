@@ -22,7 +22,7 @@ USB Connector photos:
 <img width="496" height="466" alt="image" src="https://github.com/user-attachments/assets/286401ef-0110-48f9-9bfc-96692076cef8" />
 
 Bill of Material:
-<img width="895" height="419" alt="Screenshot 2026-05-12 at 7 26 59 PM" src="https://github.com/user-attachments/assets/4e96c8a0-1f11-4ea7-94b7-60381005735c" />
+<img width="894" height="643" alt="BOM Screen" src="https://github.com/user-attachments/assets/8f91d210-47aa-497a-bdfd-c9cbb398c07b" />
 
 
 (btw bom.csv is uploaded here from stasis export if u wanna check)
