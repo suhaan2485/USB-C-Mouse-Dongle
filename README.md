@@ -21,6 +21,10 @@ USB Connector photos:
 <img width="532" height="453" alt="image" src="https://github.com/user-attachments/assets/ca37464b-0e84-4fdd-bba5-2cc384ff8f8d" />
 <img width="496" height="466" alt="image" src="https://github.com/user-attachments/assets/286401ef-0110-48f9-9bfc-96692076cef8" />
 
+Rough Body Diagram (basic wiring and idea) :
+<img width="2094" height="1432" alt="image" src="https://github.com/user-attachments/assets/d937d940-83c0-4da7-a59a-09d8025d47af" />
+
+
 Bill of Material:
 <img width="894" height="643" alt="BOM Screen" src="https://github.com/user-attachments/assets/8f91d210-47aa-497a-bdfd-c9cbb398c07b" />
 
