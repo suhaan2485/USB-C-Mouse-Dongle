@@ -2,6 +2,8 @@
 This project is about how you can convert a normal usb dongle mouse into an usb c one !
 
 Steps I will Follow:
+
+
 Remove the outer casing of the USB-A dongle.
 Use wires to connect the two data cables properly.
 Connect the voltage and data cables as required.
@@ -13,6 +15,9 @@ Notes
 This is an experimental DIY project.
 Success depends on clean soldering and stable connections.
 Let’s see what happens when I try it myself!
+
+Inspired from a similar DIY Perks Project: 
+https://youtu.be/V-vFtiDYiIw?si=_HNGwyPbbuU3E-H6
 
 Stay tuned for updates on whether this hack works!
 
